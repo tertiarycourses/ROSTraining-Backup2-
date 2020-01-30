@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tertiary/my_ros_ws/src/ROSTraining/src/topic04_perception02_laser/laserscan/utility_lib.cpp
+utility_lib.h
+/home/tertiary/my_ros_ws/src/ROSTraining/src/topic04_perception02_laser/laserscan/utility_lib.h
+
+/home/tertiary/my_ros_ws/src/ROSTraining/src/topic04_perception02_laser/laserscan/utility_lib.h
+math.h
+-
+
